@@ -3,3 +3,9 @@ Datos Personales
 Nombre: Antony 
 Apellidos: Fernandez Cahuana
 Edad: 29 
+
+Datos Personales del compañero
+
+Nombre: Abel 
+Apellido: Guevara
+Edad: 34 
